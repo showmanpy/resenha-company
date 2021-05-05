@@ -1,4 +1,4 @@
-### Oii sou o Brayan
+### Oii sou o showmaN
 
 
 
@@ -15,7 +15,7 @@
 ---
 
 
-- Get BarBarKey on [this site](https://mhankbarbar.tech)
+- Get BarBarKey on [this site](bae.gg)
 
 ---
 
@@ -30,7 +30,7 @@ Siga os passos abaixo!
 > pkg install wget
 > pkg install nodejs
 > pkg install npm
-> git clone https://github.com/BigBraim/BigBraim.git
+> git clone https://github.com/showmanpy/resenha-company.git
 > cd BigBraim
 > bash install.sh
 ```
